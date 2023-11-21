@@ -28,7 +28,7 @@ Make sure you have the following dependencies installed:
 2. Run the script:
 
     ```bash
-    python youtube_downloader.py
+    python run.py
     ```
 
 3. Enter the YouTube URL, select the save path, choose optional settings, and click the "Download" button.
