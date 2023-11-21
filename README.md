@@ -61,7 +61,7 @@ Please make sure to update tests as appropriate.
 
 ## Issues
 
-If you encounter any issues or have suggestions, feel free to open an issue [here](https://github.com/your-username/youtube-downloader/issues).
+If you encounter any issues or have suggestions, feel free to open an issue [here](https://github.com/Athallah1234/Youtube-Downloader/issues).
 
 ## Roadmap
 
@@ -87,7 +87,7 @@ A: Check the [Contributing](CONTRIBUTING.md) guidelines for detailed information
 A: Currently, the script doesn't provide a progress bar, but it will display status messages in the GUI. Implementing a progress bar is a planned enhancement for a future update.
 
 ### Q: I encountered an issue not listed here. What should I do?
-A: Please check the [Issues](https://github.com/your-username/youtube-downloader/issues) section on GitHub. If the issue hasn't been reported, feel free to open a new issue, providing details about the problem you encountered.
+A: Please check the [Issues](https://github.com/Athallah1234/Youtube-Downloader/issues) section on GitHub. If the issue hasn't been reported, feel free to open a new issue, providing details about the problem you encountered.
 
 ### Q: What video resolutions are supported by the script?
 A: The script supports resolutions such as 360p, 720p, and 1080p. You can select your desired resolution from the dropdown menu in the GUI.
@@ -130,6 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have further questions or need assistance, feel free to reach out:
 
 - Email: your.email@example.com
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Instagram : [@athallahrajendrapj123](https://instagram.com/athallahrajendrapj123)
 
 Your support is greatly appreciated!
