@@ -42,10 +42,6 @@ Make sure you have the following dependencies installed:
 
 Include some screenshots of your application to give users a visual representation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Pytube](https://github.com/pytube/pytube) - Python library for YouTube video downloading.
@@ -72,18 +68,6 @@ If you encounter any issues or have suggestions, feel free to open an issue [her
 - [ ] Add support for downloading playlists.
 - [ ] Implement a progress bar during downloads.
 - [ ] Improve error handling and user feedback.
-
-## Changelog
-
-See the [CHANGELOG](CHANGELOG.md) file for details about each version release.
-
-## Author
-
-[Athallahra](https://github.com/Athallah1234)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Frequently Asked Questions (FAQ)
 
@@ -128,6 +112,18 @@ A: Yes, the script is specifically designed for downloading videos from YouTube.
 
 ### Q: Why does the script throw an error sometimes?
 A: Errors can occur due to changes in the YouTube website structure. If you encounter persistent issues, check for updates in the script or report the problem on the [Issues](https://github.com/your-username/youtube-downloader/issues) page.
+
+## Changelog
+
+See the [CHANGELOG](CHANGELOG.md) file for details about each version release.
+
+## Author
+
+[Athallahra](https://github.com/Athallah1234)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
