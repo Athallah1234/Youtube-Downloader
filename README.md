@@ -74,9 +74,6 @@ A: Currently, the script supports downloading individual videos. Support for bul
 ### Q: Why am I getting an error about resolution not being available?
 A: This error occurs when the selected resolution is not available for the video. Try selecting a different resolution or check the available resolutions for the video on the YouTube website.
 
-### Q: How can I contribute to the project?
-A: Check the [Contributing](CONTRIBUTING.md) guidelines for detailed information on how to contribute to the project.
-
 ### Q: Is there a way to track the download progress?
 A: Currently, the script doesn't provide a progress bar, but it will display status messages in the GUI. Implementing a progress bar is a planned enhancement for a future update.
 
@@ -98,18 +95,11 @@ A: The script doesn't impose a specific limit on video length. However, extremel
 ### Q: How can I download videos with subtitles?
 A: Currently, the script doesn't support downloading subtitles. This feature is planned for a future update.
 
-### Q: Can I contribute translations for the GUI?
-A: Yes, translations are welcome! Refer to the [Contributing](CONTRIBUTING.md) guidelines for information on how to contribute translations to the project.
-
 ### Q: Does the script work with YouTube videos only?
 A: Yes, the script is specifically designed for downloading videos from YouTube. It may not work with other video platforms.
 
 ### Q: Why does the script throw an error sometimes?
-A: Errors can occur due to changes in the YouTube website structure. If you encounter persistent issues, check for updates in the script or report the problem on the [Issues](https://github.com/your-username/youtube-downloader/issues) page.
-
-## Changelog
-
-See the [CHANGELOG](CHANGELOG.md) file for details about each version release.
+A: Errors can occur due to changes in the YouTube website structure. If you encounter persistent issues, check for updates in the script or report the problem on the [Issues](https://github.com/Athallah1234/Youtube-Downloader/issues) page.
 
 ## Author
 
