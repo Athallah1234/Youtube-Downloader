@@ -63,12 +63,6 @@ Please make sure to update tests as appropriate.
 
 If you encounter any issues or have suggestions, feel free to open an issue [here](https://github.com/Athallah1234/Youtube-Downloader/issues).
 
-## Roadmap
-
-- [ ] Add support for downloading playlists.
-- [ ] Implement a progress bar during downloads.
-- [ ] Improve error handling and user feedback.
-
 ## Frequently Asked Questions (FAQ)
 
 ### Q: How do I specify the download location for the videos?
