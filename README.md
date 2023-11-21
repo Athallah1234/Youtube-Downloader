@@ -106,6 +106,6 @@ If you have further questions or need assistance, feel free to reach out:
 
 If you find this project helpful, consider buying me a coffee:
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/yourpaypal)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/athallahrajendra123)
 
 Your support is greatly appreciated!
