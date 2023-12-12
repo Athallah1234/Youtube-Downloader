@@ -29,6 +29,16 @@ Thank you for your interest in contributing to YouTube Downloader! We welcome co
    ``
 6. Open a pull request (PR) to the 'main' branch.
 
+## Testing
+
+Ensure that your changes are accompanied by tests. Run the existing test suite to make sure your modifications do not break existing functionality.
+
+To run the tests, use the following command:
+
+`` bash
+python -m unittest discover
+``
+
 ## Reporting Issues
 
 If you encounter a bug or have a suggestion, please [open an issue](ISSUE.md) following the guidelines in [ISSUE.md](ISSUE.md).
