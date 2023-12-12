@@ -2,6 +2,11 @@
 
 YouTube Downloader is a simple and user-friendly Python application that allows you to download YouTube videos and playlists with ease. The application provides a graphical user interface (GUI) built using the Tkinter library and incorporates features such as selecting video resolution, choosing a download path, converting videos to MP3, downloading metadata, thumbnails, subtitles, and more.
 
+## Advanced Features
+
+- **HDR Video Support:** The application automatically detects and downloads HDR streams when available.
+- **Smart Stream Selection:** Utilizes intelligent stream selection, including VR and 360 streams, for an enhanced download experience.
+
 ## Features
 
 - **User-Friendly Interface:** The application provides a straightforward and easy-to-use interface for downloading YouTube videos and playlists.
@@ -39,10 +44,37 @@ YouTube Downloader is a simple and user-friendly Python application that allows 
    - Enter multiple URLs separated by commas in the Batch Download section.
    - Configure other options.
    - Click "Batch Download" to download multiple videos simultaneously.
+  
+## Troubleshooting
+
+- **Video Unavailability:** If an error occurs due to video unavailability or deletion, the application provides informative error messages to guide users.
+- **Invalid URLs:** The application validates entered URLs and notifies users if an invalid YouTube URL is provided.
+- **Secure URL Check:** Ensures users enter secure HTTP or HTTPS URLs, enhancing the security of the download process.
+
+## Known Issues
+
+- **Age-Restricted Videos:** The application does not currently support downloading age-restricted videos due to YouTube's policy restrictions.
+
+## Future Enhancements
+
+- **User Authentication:** Consider implementing user authentication for access to restricted content.
+- **Improved Error Handling:** Enhance error handling to provide more detailed information on encountered issues.
 
 ## Contributors
 
-- [Athallah1234](https://github.com/Athallah1234)
+Contributions to the project are welcome! If you find a bug, have a feature request, or would like to contribute to the project, please follow our Contribution Guidelines.
+
+## Support
+
+If you encounter any issues or have questions, feel free to [open an issue](). We appreciate your feedback and will do our best to assist you.
+
+## Acknowledgments
+
+We would like to express our gratitude to the open-source community and the developers of the libraries and tools used in this project.
+
+## Disclaimer
+
+This application is intended for personal use only. Ensure that you comply with YouTube's terms of service and respect the intellectual property rights of content creators.
 
 ## License
 
