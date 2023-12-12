@@ -62,11 +62,11 @@ YouTube Downloader is a simple and user-friendly Python application that allows 
 
 ## Contributors
 
-Contributions to the project are welcome! If you find a bug, have a feature request, or would like to contribute to the project, please follow our Contribution Guidelines.
+Contributions to the project are welcome! If you find a bug, have a feature request, or would like to contribute to the project, please follow our [Contribution Guidelines](CONTRIBUTING.md ).
 
 ## Support
 
-If you encounter any issues or have questions, feel free to [open an issue](). We appreciate your feedback and will do our best to assist you.
+If you encounter any issues or have questions, feel free to [open an issue](ISSUE.md). We appreciate your feedback and will do our best to assist you.
 
 ## Acknowledgments
 
