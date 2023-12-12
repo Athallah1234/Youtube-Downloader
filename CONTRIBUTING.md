@@ -36,3 +36,5 @@ If you encounter a bug or have a suggestion, please [open an issue](ISSUE.md) fo
 ## Code of Conduct
 
 Please review our [Code of Conduct]() before contributing.
+
+Thank you for your contribution!
